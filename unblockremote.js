@@ -1,4 +1,3 @@
 var body = $response.body;
-body = '\/*\n@supported 3B29A308CDEF E47CE6547430\n*\/\n' + body;
-
+body = '\/*\n@supported D88A9D97CF3B\n*\/\n' + body;
 $done(body);
